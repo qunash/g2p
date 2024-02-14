@@ -1,0 +1,22 @@
+<<: &shared
+  language_name: Salishan languages (all)
+mappings:
+  - display_name: Salishan to IPA
+    rules_path: sal_to_ipa.csv
+    in_lang: sal-equiv
+    out_lang: sal-ipa
+    authors:
+      - Tony Mattina
+    type: mapping
+    prevent_feeding: true
+    rule_ordering: apply-longest-first
+    norm_form: NFC
+    <<: *shared
+  - display_name: Unicode Equivalencies
+    in_lang: sal
+    out_lang: sal-equiv
+    authors:
+      - Eric Joanis
+    rules_path: sal_equiv.csv
+    norm_form: NFD
+    <<: *shared
