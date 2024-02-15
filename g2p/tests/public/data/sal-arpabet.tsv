@@ -1,0 +1,105 @@
+# some more sample words
+sal	eng-arpabet	nə́c̕uʔ	TODO
+sal	eng-arpabet	čə́saʔ	CH AH S AE HH
+sal	eng-arpabet	ɬixʷ	S IY K W
+sal	eng-arpabet	ŋús	NG UW S
+sal	eng-arpabet	ɬq̕áčš	TODO
+sal	eng-arpabet	t̕χə́ŋ	TODO
+sal	eng-arpabet	c̕úʔkʷs	TODO
+sal	eng-arpabet	táʔcs	TODO
+sal	eng-arpabet	tə́kʷxʷ	T AH K W K W
+sal	eng-arpabet	ʔúpən	HH UW P AH N
+sal	eng-arpabet	t̕ᶿáʔkʷəs	TODO
+sal	eng-arpabet	téʔθəs	TODO
+sal	eng-arpabet	nə́t̕ᶿəʔ	TODO
+sal	eng-arpabet	ɬəxʷɬçeʔ	TODO
+
+# Validate the impact of feeding
+sal	eng-arpabet	a	AE
+sal	eng-arpabet	a'	AE
+sal	eng-arpabet	ạ	AE
+sal	eng-arpabet	ạ́	AE
+sal	eng-arpabet	æ	AE
+sal	eng-arpabet	æ'	AE
+sal	eng-arpabet	c	T S
+sal	eng-arpabet	c̣	K
+sal	eng-arpabet	θ	TH
+sal	eng-arpabet	c'	T S
+sal	eng-arpabet	č	CH
+sal	eng-arpabet	č̓	K
+sal	eng-arpabet	ǰ	JH
+sal	eng-arpabet	ɛ	EH
+sal	eng-arpabet	ɛ́	EH
+sal	eng-arpabet	ʌ	AH
+sal	eng-arpabet	ə	AH
+sal	eng-arpabet	e	AH
+sal	eng-arpabet	ə́	AH
+sal	eng-arpabet	ə̣́	AH
+sal	eng-arpabet	ʌ́	AH
+sal	eng-arpabet	g	G
+sal	eng-arpabet	gʷ	G W
+sal	eng-arpabet	h	HH
+sal	eng-arpabet	ḥ	HH
+sal	eng-arpabet	ḥʷ	HH W
+sal	eng-arpabet	i	IY
+sal	eng-arpabet	i'	IY
+sal	eng-arpabet	ɣ	G
+sal	eng-arpabet	ɣ'	G
+sal	eng-arpabet	k	K
+sal	eng-arpabet	k'	K
+sal	eng-arpabet	kʷ	K W
+sal	eng-arpabet	k'ʷ	K W
+sal	eng-arpabet	l	L
+sal	eng-arpabet	l'	L
+sal	eng-arpabet	ḷ	L
+sal	eng-arpabet	ɬ	S
+sal	eng-arpabet	ł	S
+sal	eng-arpabet	ƛ'	T S
+sal	eng-arpabet	m	M
+sal	eng-arpabet	m'	M
+sal	eng-arpabet	n	N
+sal	eng-arpabet	n'	N
+sal	eng-arpabet	ṇ	N
+sal	eng-arpabet	ŋ	NG
+sal	eng-arpabet	o	AO
+sal	eng-arpabet	o'	AO
+sal	eng-arpabet	ó	AO
+sal	eng-arpabet	ɔ	AO
+sal	eng-arpabet	ɔ́	AO
+sal	eng-arpabet	p	P
+sal	eng-arpabet	p'	P
+sal	eng-arpabet	q	K
+sal	eng-arpabet	q'	K
+sal	eng-arpabet	qʷ	K W
+sal	eng-arpabet	q'ʷ	K W
+sal	eng-arpabet	r	D
+sal	eng-arpabet	r'	D
+sal	eng-arpabet	s	S
+sal	eng-arpabet	ṣ	S
+sal	eng-arpabet	t	T
+sal	eng-arpabet	t'	T
+sal	eng-arpabet	ť	T
+sal	eng-arpabet	ʕ	ZH
+sal	eng-arpabet	ʕ'	ZH
+sal	eng-arpabet	u	UW
+sal	eng-arpabet	u'	UW
+sal	eng-arpabet	ú	UW
+sal	eng-arpabet	ụ	UW
+sal	eng-arpabet	ụ́	UW
+sal	eng-arpabet	ʕʷ	ZH W
+sal	eng-arpabet	ʕ'ʷ	ZH W
+sal	eng-arpabet	x̌	SH
+sal	eng-arpabet	x	K
+sal	eng-arpabet	x̣	K
+sal	eng-arpabet	x̣ʷ	K W
+sal	eng-arpabet	w	W
+sal	eng-arpabet	y	Y
+sal	eng-arpabet	x̌ʷ	SH W
+sal	eng-arpabet	xʷ	K W
+sal	eng-arpabet	w'	W
+sal	eng-arpabet	w	W
+sal	eng-arpabet	y'	Y
+sal	eng-arpabet	ʷ	W
+sal	eng-arpabet	ʡ	HH
+sal	eng-arpabet	ʔ	HH
+sal	eng-arpabet	z'	Z
