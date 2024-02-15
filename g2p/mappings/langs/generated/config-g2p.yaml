@@ -614,6 +614,7 @@ mappings:
     rules_path: clm-ipa_to_eng-ipa.json
   - authors:
       - Generated 2024-02-14 11:54:11.131226
+      - Manual fixes by Eric Joanis
     case_equivalencies: {}
     case_sensitive: true
     display_name: sal-ipa to eng-ipa
