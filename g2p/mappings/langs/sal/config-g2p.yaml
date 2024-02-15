@@ -10,7 +10,7 @@ mappings:
     type: mapping
     prevent_feeding: true
     rule_ordering: apply-longest-first
-    norm_form: NFC
+    norm_form: NFD
     <<: *shared
   - display_name: Unicode Equivalencies
     in_lang: sal
