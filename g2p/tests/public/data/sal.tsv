@@ -17,16 +17,16 @@ sal	sal-ipa	ɬəxʷɬçeʔ	ɬəxʷɬtşəʔ
 # Validate the impact of feeding
 sal	sal-ipa	a	a
 sal	sal-ipa	a'	ˈa
-sal	sal-ipa	ạ	ạ
-sal	sal-ipa	ạ́	ạ'
+sal	sal-ipa	ạ	a̠
+sal	sal-ipa	ạ́	a̠'
 sal	sal-ipa	æ	æ
 sal	sal-ipa	æ'	ǽ
 sal	sal-ipa	c	ts
-sal	sal-ipa	c̣	c̣
+sal	sal-ipa	c̣	c̠
 sal	sal-ipa	θ	θ
 sal	sal-ipa	c'	tsʼ
 sal	sal-ipa	č	ʧ
-sal	sal-ipa	č̓	č'	Q: should this be ejective marker ʼ instead of ASCII '? And should this be ʧʼ in IPA?
+sal	sal-ipa	č̓	ʧʼ
 sal	sal-ipa	ǰ	ʤ
 sal	sal-ipa	ɛ	ɛ
 sal	sal-ipa	ɛ́	ɛ'
@@ -34,13 +34,13 @@ sal	sal-ipa	ʌ	ʌ
 sal	sal-ipa	ə	ə
 sal	sal-ipa	e	ə
 sal	sal-ipa	ə́	ə'
-sal	sal-ipa	ə̣́	ə̣'
+sal	sal-ipa	ə̣́	ə̠'
 sal	sal-ipa	ʌ́	ʌ'
 sal	sal-ipa	g	ɡ
 sal	sal-ipa	gʷ	ɡʷ
 sal	sal-ipa	h	h
 sal	sal-ipa	ḥ	h
-sal	sal-ipa	ḥʷ	ḥʷ
+sal	sal-ipa	ḥʷ	h̠ʷ
 sal	sal-ipa	i	i
 sal	sal-ipa	i'	ˈi
 sal	sal-ipa	ɣ	ɣ
@@ -51,7 +51,7 @@ sal	sal-ipa	kʷ	kʷ
 sal	sal-ipa	k'ʷ	kʼʷ
 sal	sal-ipa	l	l
 sal	sal-ipa	l'	lˀ
-sal	sal-ipa	ḷ	ḷ
+sal	sal-ipa	ḷ	l̠
 sal	sal-ipa	ɬ	ɬ
 sal	sal-ipa	ł	ɬ
 sal	sal-ipa	ƛ'	tɬʼ
@@ -59,7 +59,7 @@ sal	sal-ipa	m	m
 sal	sal-ipa	m'	mˀ
 sal	sal-ipa	n	n
 sal	sal-ipa	n'	nˀ
-sal	sal-ipa	ṇ	ṇ
+sal	sal-ipa	ṇ	n̠
 sal	sal-ipa	ŋ	ŋ
 sal	sal-ipa	o	o
 sal	sal-ipa	o'	ˈo
@@ -75,7 +75,7 @@ sal	sal-ipa	q'ʷ	qʼʷ
 sal	sal-ipa	r	ɾ
 sal	sal-ipa	r'	ɾˀ
 sal	sal-ipa	s	s
-sal	sal-ipa	ṣ	ṣ
+sal	sal-ipa	ṣ	s̠
 sal	sal-ipa	t	t
 sal	sal-ipa	t'	tʼ
 sal	sal-ipa	ť	tʼ
@@ -84,14 +84,14 @@ sal	sal-ipa	ʕ'	ʕˀ
 sal	sal-ipa	u	u
 sal	sal-ipa	u'	ˈu
 sal	sal-ipa	ú	u'
-sal	sal-ipa	ụ	ụ
-sal	sal-ipa	ụ́	ụ'
+sal	sal-ipa	ụ	u̠
+sal	sal-ipa	ụ́	u̠'
 sal	sal-ipa	ʕʷ	ʕʷ
 sal	sal-ipa	ʕ'ʷ	ʕˀʷ
 sal	sal-ipa	x̌	χ
 sal	sal-ipa	x	x
-sal	sal-ipa	x̣	x̣
-sal	sal-ipa	x̣ʷ	x̣ʷ
+sal	sal-ipa	x̣	x̠
+sal	sal-ipa	x̣ʷ	x̠ʷ
 sal	sal-ipa	w	w
 sal	sal-ipa	y	j
 sal	sal-ipa	x̌ʷ	χʷ
@@ -103,4 +103,5 @@ sal	sal-ipa	ʷ	ʷ
 sal	sal-ipa	ʡ	ʡ
 sal	sal-ipa	ʔ	ʔ
 sal	sal-ipa	ˀ	ˀ
-sal	sal-ipa	z'	z̓
+sal	sal-ipa	z'	zˀ
+sal	sal-ipa	z̓	zˀ

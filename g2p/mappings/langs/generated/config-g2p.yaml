@@ -613,8 +613,7 @@ mappings:
     rule_ordering: apply-longest-first
     rules_path: clm-ipa_to_eng-ipa.json
   - authors:
-      - Generated 2024-02-14 11:54:11.131226
-      - Manual fixes by Eric Joanis
+      - Generated 2024-02-23 15:23:23.799861
     case_equivalencies: {}
     case_sensitive: true
     display_name: sal-ipa to eng-ipa
