@@ -1,5 +1,6 @@
 name: Run full matrix Tests before Releases
 on:
+  push:
   workflow_call:
   workflow_dispatch:
   pull_request:
@@ -7,6 +8,7 @@ on:
 jobs:
   pre-release-matrix-test:
     strategy:
+      fail-fast: false
       matrix:
         os: [ubuntu-20.04, windows-latest, macos-latest]
         python-version: ["3.7", "3.8", "3.9", "3.10", "3.11", "3.12"]
