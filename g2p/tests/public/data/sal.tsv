@@ -1,107 +1,107 @@
 # some more sample words
-sal	sal-ipa	nə́c̕uʔ	nə'ts̕uʔ	clm "one"
-sal	sal-ipa	čə́saʔ	ʧə'saʔ	clm "two"
-sal	sal-ipa	ɬixʷ	ɬixʷ	clm "three"
-sal	sal-ipa	ŋús	ŋu's	clm "four"
-sal	sal-ipa	ɬq̕áčš	ɬq̕áʧš	clm "five"
-sal	sal-ipa	t̕χə́ŋ	t̕χə'ŋ	clm "six"
-sal	sal-ipa	c̕úʔkʷs	ts̕u'ʔkʷs	clm "seven"
-sal	sal-ipa	táʔcs	táʔtss	clm "eight"
-sal	sal-ipa	tə́kʷxʷ	tə'kʷxʷ	clm "nine"
-sal	sal-ipa	ʔúpən	ʔu'pən	clm "ten"
-sal	sal-ipa	t̕ᶿáʔkʷəs	t̕ᶿáʔkʷəs
-sal	sal-ipa	téʔθəs	tə́ʔθəs
-sal	sal-ipa	nə́t̕ᶿəʔ	nə't̕ᶿəʔ
-sal	sal-ipa	ɬəxʷɬçeʔ	ɬəxʷɬtşəʔ
+sal-apa	sal-ipa	nə́c̕uʔ	nə'ts̕uʔ	clm "one"
+sal-apa	sal-ipa	čə́saʔ	ʧə'saʔ	clm "two"
+sal-apa	sal-ipa	ɬixʷ	ɬixʷ	clm "three"
+sal-apa	sal-ipa	ŋús	ŋu's	clm "four"
+sal-apa	sal-ipa	ɬq̕áčš	ɬq̕áʧš	clm "five"
+sal-apa	sal-ipa	t̕χə́ŋ	t̕χə'ŋ	clm "six"
+sal-apa	sal-ipa	c̕úʔkʷs	ts̕u'ʔkʷs	clm "seven"
+sal-apa	sal-ipa	táʔcs	táʔtss	clm "eight"
+sal-apa	sal-ipa	tə́kʷxʷ	tə'kʷxʷ	clm "nine"
+sal-apa	sal-ipa	ʔúpən	ʔu'pən	clm "ten"
+sal-apa	sal-ipa	t̕ᶿáʔkʷəs	t̕ᶿáʔkʷəs
+sal-apa	sal-ipa	téʔθəs	tə́ʔθəs
+sal-apa	sal-ipa	nə́t̕ᶿəʔ	nə't̕ᶿəʔ
+sal-apa	sal-ipa	ɬəxʷɬçeʔ	ɬəxʷɬtşəʔ
 
 # Validate the impact of feeding
-sal	sal-ipa	a	a
-sal	sal-ipa	a'	ˈa
-sal	sal-ipa	ạ	a̠
-sal	sal-ipa	ạ́	a̠'
-sal	sal-ipa	æ	æ
-sal	sal-ipa	æ'	ǽ
-sal	sal-ipa	c	ts
-sal	sal-ipa	c̣	c̠
-sal	sal-ipa	θ	θ
-sal	sal-ipa	c'	tsʼ
-sal	sal-ipa	č	ʧ
-sal	sal-ipa	č̓	ʧʼ
-sal	sal-ipa	ǰ	ʤ
-sal	sal-ipa	ɛ	ɛ
-sal	sal-ipa	ɛ́	ɛ'
-sal	sal-ipa	ʌ	ʌ
-sal	sal-ipa	ə	ə
-sal	sal-ipa	e	ə
-sal	sal-ipa	ə́	ə'
-sal	sal-ipa	ə̣́	ə̠'
-sal	sal-ipa	ʌ́	ʌ'
-sal	sal-ipa	g	ɡ
-sal	sal-ipa	gʷ	ɡʷ
-sal	sal-ipa	h	h
-sal	sal-ipa	ḥ	h
-sal	sal-ipa	ḥʷ	h̠ʷ
-sal	sal-ipa	i	i
-sal	sal-ipa	i'	ˈi
-sal	sal-ipa	ɣ	ɣ
-sal	sal-ipa	ɣ'	ɣˀ
-sal	sal-ipa	k	k
-sal	sal-ipa	k'	kʼ
-sal	sal-ipa	kʷ	kʷ
-sal	sal-ipa	k'ʷ	kʼʷ
-sal	sal-ipa	l	l
-sal	sal-ipa	l'	lˀ
-sal	sal-ipa	ḷ	l̠
-sal	sal-ipa	ɬ	ɬ
-sal	sal-ipa	ł	ɬ
-sal	sal-ipa	ƛ'	tɬʼ
-sal	sal-ipa	m	m
-sal	sal-ipa	m'	mˀ
-sal	sal-ipa	n	n
-sal	sal-ipa	n'	nˀ
-sal	sal-ipa	ṇ	n̠
-sal	sal-ipa	ŋ	ŋ
-sal	sal-ipa	o	o
-sal	sal-ipa	o'	ˈo
-sal	sal-ipa	ó	ó
-sal	sal-ipa	ɔ	ɔ
-sal	sal-ipa	ɔ́	ɔ'
-sal	sal-ipa	p	p
-sal	sal-ipa	p'	pʼ
-sal	sal-ipa	q	q
-sal	sal-ipa	q'	qʼ
-sal	sal-ipa	qʷ	qʷ
-sal	sal-ipa	q'ʷ	qʼʷ
-sal	sal-ipa	r	ɾ
-sal	sal-ipa	r'	ɾˀ
-sal	sal-ipa	s	s
-sal	sal-ipa	ṣ	s̠
-sal	sal-ipa	t	t
-sal	sal-ipa	t'	tʼ
-sal	sal-ipa	ť	tʼ
-sal	sal-ipa	ʕ	ʕ
-sal	sal-ipa	ʕ'	ʕˀ
-sal	sal-ipa	u	u
-sal	sal-ipa	u'	ˈu
-sal	sal-ipa	ú	u'
-sal	sal-ipa	ụ	u̠
-sal	sal-ipa	ụ́	u̠'
-sal	sal-ipa	ʕʷ	ʕʷ
-sal	sal-ipa	ʕ'ʷ	ʕˀʷ
-sal	sal-ipa	x̌	χ
-sal	sal-ipa	x	x
-sal	sal-ipa	x̣	x̠
-sal	sal-ipa	x̣ʷ	x̠ʷ
-sal	sal-ipa	w	w
-sal	sal-ipa	y	j
-sal	sal-ipa	x̌ʷ	χʷ
-sal	sal-ipa	xʷ	xʷ
-sal	sal-ipa	w'	wˀ
-sal	sal-ipa	w	w
-sal	sal-ipa	y'	jˀ
-sal	sal-ipa	ʷ	ʷ
-sal	sal-ipa	ʡ	ʡ
-sal	sal-ipa	ʔ	ʔ
-sal	sal-ipa	ˀ	ˀ
-sal	sal-ipa	z'	zˀ
-sal	sal-ipa	z̓	zˀ
+sal-apa	sal-ipa	a	a
+sal-apa	sal-ipa	a'	ˈa
+sal-apa	sal-ipa	ạ	a̠
+sal-apa	sal-ipa	ạ́	a̠'
+sal-apa	sal-ipa	æ	æ
+sal-apa	sal-ipa	æ'	ǽ
+sal-apa	sal-ipa	c	ts
+sal-apa	sal-ipa	c̣	c̠
+sal-apa	sal-ipa	θ	θ
+sal-apa	sal-ipa	c'	tsʼ
+sal-apa	sal-ipa	č	ʧ
+sal-apa	sal-ipa	č̓	ʧʼ
+sal-apa	sal-ipa	ǰ	ʤ
+sal-apa	sal-ipa	ɛ	ɛ
+sal-apa	sal-ipa	ɛ́	ɛ'
+sal-apa	sal-ipa	ʌ	ʌ
+sal-apa	sal-ipa	ə	ə
+sal-apa	sal-ipa	e	ə
+sal-apa	sal-ipa	ə́	ə'
+sal-apa	sal-ipa	ə̣́	ə̠'
+sal-apa	sal-ipa	ʌ́	ʌ'
+sal-apa	sal-ipa	g	ɡ
+sal-apa	sal-ipa	gʷ	ɡʷ
+sal-apa	sal-ipa	h	h
+sal-apa	sal-ipa	ḥ	h
+sal-apa	sal-ipa	ḥʷ	h̠ʷ
+sal-apa	sal-ipa	i	i
+sal-apa	sal-ipa	i'	ˈi
+sal-apa	sal-ipa	ɣ	ɣ
+sal-apa	sal-ipa	ɣ'	ɣˀ
+sal-apa	sal-ipa	k	k
+sal-apa	sal-ipa	k'	kʼ
+sal-apa	sal-ipa	kʷ	kʷ
+sal-apa	sal-ipa	k'ʷ	kʼʷ
+sal-apa	sal-ipa	l	l
+sal-apa	sal-ipa	l'	lˀ
+sal-apa	sal-ipa	ḷ	l̠
+sal-apa	sal-ipa	ɬ	ɬ
+sal-apa	sal-ipa	ł	ɬ
+sal-apa	sal-ipa	ƛ'	tɬʼ
+sal-apa	sal-ipa	m	m
+sal-apa	sal-ipa	m'	mˀ
+sal-apa	sal-ipa	n	n
+sal-apa	sal-ipa	n'	nˀ
+sal-apa	sal-ipa	ṇ	n̠
+sal-apa	sal-ipa	ŋ	ŋ
+sal-apa	sal-ipa	o	o
+sal-apa	sal-ipa	o'	ˈo
+sal-apa	sal-ipa	ó	ó
+sal-apa	sal-ipa	ɔ	ɔ
+sal-apa	sal-ipa	ɔ́	ɔ'
+sal-apa	sal-ipa	p	p
+sal-apa	sal-ipa	p'	pʼ
+sal-apa	sal-ipa	q	q
+sal-apa	sal-ipa	q'	qʼ
+sal-apa	sal-ipa	qʷ	qʷ
+sal-apa	sal-ipa	q'ʷ	qʼʷ
+sal-apa	sal-ipa	r	ɾ
+sal-apa	sal-ipa	r'	ɾˀ
+sal-apa	sal-ipa	s	s
+sal-apa	sal-ipa	ṣ	s̠
+sal-apa	sal-ipa	t	t
+sal-apa	sal-ipa	t'	tʼ
+sal-apa	sal-ipa	ť	tʼ
+sal-apa	sal-ipa	ʕ	ʕ
+sal-apa	sal-ipa	ʕ'	ʕˀ
+sal-apa	sal-ipa	u	u
+sal-apa	sal-ipa	u'	ˈu
+sal-apa	sal-ipa	ú	u'
+sal-apa	sal-ipa	ụ	u̠
+sal-apa	sal-ipa	ụ́	u̠'
+sal-apa	sal-ipa	ʕʷ	ʕʷ
+sal-apa	sal-ipa	ʕ'ʷ	ʕˀʷ
+sal-apa	sal-ipa	x̌	χ
+sal-apa	sal-ipa	x	x
+sal-apa	sal-ipa	x̣	x̠
+sal-apa	sal-ipa	x̣ʷ	x̠ʷ
+sal-apa	sal-ipa	w	w
+sal-apa	sal-ipa	y	j
+sal-apa	sal-ipa	x̌ʷ	χʷ
+sal-apa	sal-ipa	xʷ	xʷ
+sal-apa	sal-ipa	w'	wˀ
+sal-apa	sal-ipa	w	w
+sal-apa	sal-ipa	y'	jˀ
+sal-apa	sal-ipa	ʷ	ʷ
+sal-apa	sal-ipa	ʡ	ʡ
+sal-apa	sal-ipa	ʔ	ʔ
+sal-apa	sal-ipa	ˀ	ˀ
+sal-apa	sal-ipa	z'	zˀ
+sal-apa	sal-ipa	z̓	zˀ
