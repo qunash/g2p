@@ -1,0 +1,24 @@
+<<: &shared
+  language_name: Kabardian
+mappings:
+  - display_name: Kabardian Palochka Equivalencies
+    in_lang: kbd
+    out_lang: kbd-equiv
+    authors:
+      - Anzor Qunash
+    rules_path: kbd_equiv.csv
+    rule_ordering: apply-longest-first
+    norm_form: 'none'
+    <<: *shared
+  - display_name: Kabardian to IPA
+    in_lang: kbd-equiv
+    out_lang: kbd-ipa
+    type: mapping
+    authors:
+      - Anzor Qunash
+    case_sensitive: false
+    rules_path: kbd_to_ipa.csv
+    abbreviations_path: kbd_abbs.csv
+    rule_ordering: as-written
+    norm_form: 'none'
+    <<: *shared
